@@ -1,0 +1,5 @@
+ARRANGEMENTS :
+
+Quinze chevaux participent à une course.
+Si cette course est un tiercé de combien de façon différentes les joueurs peuvent parier ?
+
