@@ -1,1 +1,1 @@
-Exercice git et github
+Exercices d'arrangements, de permutations et de combinaisons
