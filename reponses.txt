@@ -1,5 +1,12 @@
 REPONSES
 
 1 - Il existe 2730 façons différentes : 15 x 14 x 13 = 2730.
+
 2 - Il existe 32760 façons différentes : 15 x 14 x 13 x 12 = 32760.
 
+3 - Il existe 6 façons de ranger les lettres ABC :
+ABC ACB BCA BAC CAB CBA
+3 x 2 x 1 = 3! = 6.
+
+4 - Il existe 24 façons de ranger ABCD :
+4 x 3 x 2 x 1 = 4! = 24.
