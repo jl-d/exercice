@@ -10,3 +10,9 @@ ABC ACB BCA BAC CAB CBA
 
 4 - Il existe 24 façons de ranger ABCD :
 4 x 3 x 2 x 1 = 4! = 24.
+
+5 - Nous avons 120 possibilités:
+(10 x 9 x 8) / (3 x 2 x 1) = 10! / (10-3)! / 3! = 120
+
+6 - Nous avons 210 possibilités:
+(10 x 9 x 8 x 7) / (4 x 3 x 2 x 1) = 10! / (10-4)! / 4! = 210

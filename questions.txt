@@ -7,3 +7,8 @@ QUESTIONS
 (Permutation) Nous utilisons 3 lettres A, B, C.
 3 - De conbien de façons peut-on ranger l'une après l'autre ces lettres ?
 4 - Même quetion en ajoutant une lettre D.
+
+(Combinaison) 10 chevaux participent à une course.
+5 - Conbien avons nous de possiblités de tiecés dans le désordre ?
+6 - Conbien avons nous de possiblités de quartés dans le désordre ?
+
