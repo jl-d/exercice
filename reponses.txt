@@ -1,4 +1,4 @@
-ARRANGEMENTS - REPONSES :
+REPONSES
 
 1 - Il existe 2730 façons différentes : 15 x 14 x 13 = 2730.
 2 - Il existe 32760 façons différentes : 15 x 14 x 13 x 12 = 32760.
